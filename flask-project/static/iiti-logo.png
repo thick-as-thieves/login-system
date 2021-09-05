@@ -1,0 +1,12 @@
+--2021-09-05 19:01:40--  https://upload.wikimedia.org/wikipedia/en/c/c4/Indian_Institute_of_Technology%2C_Indore_Logo.png
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 2001:df2:e500:ed1a::2:b, 103.102.166.240
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|2001:df2:e500:ed1a::2:b|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 86026 (84K) [image/png]
+Saving to: ‘Indian_Institute_of_Technology,_Indore_Logo.png’
+
+     0K .......... .......... .......... .......... .......... 59%  304K 0s
+    50K .......... .......... .......... ....                 100%  609K=0.2s
+
+2021-09-05 19:01:41 (382 KB/s) - ‘Indian_Institute_of_Technology,_Indore_Logo.png’ saved [86026/86026]
+

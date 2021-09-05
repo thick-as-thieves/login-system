@@ -1,0 +1,40 @@
+{% extends 'layout.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+<h2>2nd year Btech CSE courses</h2>
+<p>Welcome to IIT Indore, {{ username }}!</p>
+
+<table class="table table-bordered table-striped">
+    <thead class="thead-dark ">
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Course Name</th>
+        <th scope="col">Class link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">1</th>
+        <td>Discrete Maths</td>
+        <td><a href="https://meet.google.com/fzn-tpkc-eop">CS201</a></td>
+      </tr>
+      <tr>
+        <th scope="row">2</th>
+        <td>DBMS</td>
+        <td><a href="https://meet.google.com/bpi-hxwd-qdk">CS207</a></td>
+      </tr>
+      <tr>
+        <th scope="row">3</th>
+        <td>DSA</td>
+        <td><a href="https://meet.google.com/isb-tbap-gpa">CS203</a></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+
+{% endblock %}
+
+
